@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "hbo_max_horizontal_white_rgb-2.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "hbo_max_horizontal_white_rgb-1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "hbo_max_horizontal_white_rgb.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

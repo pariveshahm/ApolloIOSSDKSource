@@ -1,0 +1,6 @@
+framework module Pods_ATTOEMRetailSDK_Examples_HondaExample {
+  umbrella header "Pods-ATTOEMRetailSDK_Examples-HondaExample-umbrella.h"
+
+  export *
+  module * { export * }
+}

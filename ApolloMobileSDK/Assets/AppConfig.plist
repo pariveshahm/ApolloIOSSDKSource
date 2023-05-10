@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PRODUCTS_SERVICES_BASE_URL</key>
+	<string>/Thingworx/Things/Products-1/Services</string>
+	<key>PAYMENTS_SERVICES_BASE_URL</key>
+	<string>/Thingworx/Things/Nonpci-Payments-1/Services</string>
+	<key>SUBSCRIPTIONS_SERVICES_BASE_URL</key>
+	<string>/Thingworx/Things/Subscriptions-1/Services</string>
+	<key>CONSENTS_SERVICES_BASE_URL</key>
+	<string>/Thingworx/Things/Consents-1/Services</string>
+	<key>SUBSCRIBERS_SERVICES_BASE_URL</key>
+	<string>/Thingworx/Things/Subscribers-1/Services</string>
+	<key>ORDER_SERVICES_BASE_URL</key>
+	<string>/Thingworx/Things/Orders-1/Services</string>
+	<key>REPORTS_BASE_URL</key>
+	<string>/Thingworx/Things/Reports-1</string>
+</dict>
+</plist>

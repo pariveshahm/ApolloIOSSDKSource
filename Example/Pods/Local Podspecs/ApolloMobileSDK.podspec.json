@@ -1,0 +1,47 @@
+{
+  "name": "ApolloMobileSDK",
+  "version": "0.8.8",
+  "summary": "AT&T Apollo SDK for OEMs.",
+  "swift_versions": "5.0",
+  "homepage": "https://example.com",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "AT&T": "dm835j@att.com"
+  },
+  "source": {
+    "git": "git@github.com:att-iot/ApolloIOSSDKSource.git",
+    "tag": "0.8.8",
+    "branch": "main"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source_files": "ApolloMobileSDK/Classes/**/*",
+  "resource_bundles": {
+    "Resources": [
+      "ApolloMobileSDK/Assets/**/*.{xcassets,storyboard,xcconfig,plist,strings}"
+    ],
+    "Fonts": [
+      "ApolloMobileSDK/Assets/Fonts/**/*.{ttf}"
+    ],
+    "Data": [
+      "ApolloMobileSDK/Assets/Data/**/*.{json}"
+    ]
+  },
+  "frameworks": [
+    "UIKit",
+    "SwiftUI"
+  ],
+  "dependencies": {
+    "Alamofire": [
+      "~> 5.0.5"
+    ]
+  },
+  "pod_target_xcconfig": {
+    "PAYMENTS_SERVICES_BASE_URL": "$(PAYMENTS_SERVICES_BASE_URL)"
+  },
+  "swift_version": "5.0"
+}

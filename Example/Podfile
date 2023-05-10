@@ -1,0 +1,14 @@
+use_frameworks!
+
+abstract_target 'ATTOEMRetailSDK_Examples' do
+  pod 'ApolloMobileSDK', :path => '../'
+  pod 'Alamofire', '~> 5.0.5'
+
+  target 'HondaExample' do
+  end
+
+  target 'ATTORMRetailSDK_Tests' do
+    inherit! :search_paths
+  end
+end
+

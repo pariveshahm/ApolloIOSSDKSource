@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.0.5)
+  - ApolloMobileSDK (0.8.8):
+    - Alamofire (~> 5.0.5)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0.5)
+  - ApolloMobileSDK (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+
+EXTERNAL SOURCES:
+  ApolloMobileSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Alamofire: df2f8f826963b08b9a870791ad48e07a10090b2e
+  ApolloMobileSDK: 6553a82517802959c9db50b5fbb66d1062846852
+
+PODFILE CHECKSUM: bfcdb901f3aeaf8a4a915fea44344ba1d711f04c
+
+COCOAPODS: 1.11.2

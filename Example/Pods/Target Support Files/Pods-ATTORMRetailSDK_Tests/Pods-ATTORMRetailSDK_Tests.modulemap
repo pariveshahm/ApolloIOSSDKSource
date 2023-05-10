@@ -1,0 +1,6 @@
+framework module Pods_ATTORMRetailSDK_Tests {
+  umbrella header "Pods-ATTORMRetailSDK_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

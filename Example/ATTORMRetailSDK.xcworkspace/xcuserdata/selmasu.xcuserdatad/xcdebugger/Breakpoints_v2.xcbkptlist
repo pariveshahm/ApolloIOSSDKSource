@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4E284147-4E36-42D0-A778-0DD0130DCE33"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "788558A5-21F8-4D6D-9251-9A1888689CED"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../ATTORMRetailSDK/Classes/ViewModels/DashboardWidgetViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "getTrialPlan(vin:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "788558A5-21F8-4D6D-9251-9A1888689CED - 74aff05d81c200e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;ATTORMRetailSDK.SearchProductsResponse, ATTORMRetailSDK.ServiceError&gt;) -&gt; () in ATTORMRetailSDK.DashboardWidgetViewModel.getTrialPlan(vin: Swift.String) -&gt; ()"
+                  moduleName = "ATTORMRetailSDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/selmasu/Documents/Projects/at-t-orm-retail-integration.ios-sdk/ATTORMRetailSDK/Classes/ViewModels/DashboardWidgetViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "249">
+               </Location>
+               <Location
+                  uuid = "788558A5-21F8-4D6D-9251-9A1888689CED - 74aff05d81c200e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;ATTORMRetailSDK.SearchProductsResponse, ATTORMRetailSDK.ServiceError&gt;) -&gt; () in ATTORMRetailSDK.DashboardWidgetViewModel.getTrialPlan(vin: Swift.String) -&gt; ()"
+                  moduleName = "ATTORMRetailSDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/selmasu/Documents/Projects/at-t-orm-retail-integration.ios-sdk/ATTORMRetailSDK/Classes/ViewModels/DashboardWidgetViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  uuid = "788558A5-21F8-4D6D-9251-9A1888689CED - 74aff05d81c200e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;ATTORMRetailSDK.SearchProductsResponse, ATTORMRetailSDK.ServiceError&gt;) -&gt; () in ATTORMRetailSDK.DashboardWidgetViewModel.getTrialPlan(vin: Swift.String) -&gt; ()"
+                  moduleName = "ATTORMRetailSDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/selmasu/Documents/Projects/at-t-orm-retail-integration.ios-sdk/ATTORMRetailSDK/Classes/ViewModels/DashboardWidgetViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "19275">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B9488FDB-15E6-44CD-AFED-7EE6049FAC03"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../ATTORMRetailSDK/Classes/ViewModels/DashboardWidgetViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "getTrialPlan(vin:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E4FBBD6C-17BC-4286-A34A-0C487A91CAF9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../ATTORMRetailSDK/Classes/ViewModels/DashboardWidgetViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "checkIsEligibleForTrial(vin:iccid:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F92646B2-300A-4D86-9C41-F9291DD4CF1D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../ATTORMRetailSDK/Classes/ViewModels/DashboardWidgetViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "checkIsRegisteredUser(response:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PRODUCTS_SERVICES_VERSION</key>
+	<integer>1</integer>
+	<key>PRODUCTS_SERVICES_BASE_URL</key>
+	<string>https://localhost:8000/Thingworx/Things/Products-1/Services</string>
+	<key>PAYMENTS_SERVICES_VERSION</key>
+	<integer>1</integer>
+	<key>PAYMENTS_SERVICES_BASE_URL</key>
+	<string>https://localhost:8000/Thingworx/Things/Nonpci-Payments-1/Services</string>
+	<key>SUBSCRIPTIONS_SERVICES_VERSION</key>
+	<integer>1</integer>
+	<key>SUBSCRIPTIONS_SERVICES_BASE_URL</key>
+	<string>https://localhost:8000/Thingworx/Things/Subscriptions-1/Services</string>
+	<key>CONSENTS_SERVICES_VERSION</key>
+	<integer>1</integer>
+	<key>CONSENTS_SERVICES_BASE_URL</key>
+	<string>https://localhost:8000/Thingworx/Things/Consents-1/Services</string>
+	<key>SUBSCRIBERS_SERVICES_VERSION</key>
+	<string>1</string>
+	<key>SUBSCRIBERS_SERVICES_BASE_URL</key>
+	<string>https://localhost:8000/Thingworx/Things/Subscribers-1/Services</string>
+	<key>LOCAL_IP_ADDRESS</key>
+	<string>192.168.0.14</string>
+</dict>
+</plist>

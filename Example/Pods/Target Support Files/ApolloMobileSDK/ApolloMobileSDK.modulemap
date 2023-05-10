@@ -1,0 +1,6 @@
+framework module ApolloMobileSDK {
+  umbrella header "ApolloMobileSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
